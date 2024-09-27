@@ -1,0 +1,13 @@
+.DS_Store
+/node_modules/
+node_modules/
+.ideia/
+package-lock.json
+*.iml
+./service_account.json
+service_account.json
+.wwebjs_auth
+.wwebjs_cache
+.env
+.idea/
+service_account.json
