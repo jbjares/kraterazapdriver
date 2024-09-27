@@ -11,3 +11,4 @@ service_account.json
 .env
 .idea/
 service_account.json
+./service_account.json
